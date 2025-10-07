@@ -27,16 +27,15 @@ The next flip-flop need only “recognize” that the first flip-flop’s Q outp
 However, the remaining flip-flops should be made ready to toggle only when all lower-order output bits are “high,” thus the need for AND gates.
 
 **Procedure**
-1.
-Type the program in Quartus software.
-2.
-Compile and run the program.
-3.
-Generate the RTL schematic and save the logic diagram.
-4.
-Create nodes for inputs and outputs to generate the timing diagram.
-5.
-For different input combinations generate the timing diagram.
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
